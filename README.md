@@ -6,3 +6,5 @@ The dependencies are within the "requirements.txt" file and the converter used t
 The datasets used and fine-tuned models are in my Hugging Face repositories at "https://huggingface.co/MagazinePuma".
 
 Make sure to download Claude Desktop and follow the directions within the paper to be able to connect the server to the client.
+
+Link to YouTube demo is "https://www.youtube.com/watch?v=AlVykAgbwWQ&t=1s"
