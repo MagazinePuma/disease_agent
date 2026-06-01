@@ -1,0 +1,15 @@
+transformers
+datasets
+torch
+torchaudio
+torchvision
+accelerate>=0.26.0
+huggingface-hub
+beautifulsoup4
+bitsandbytes
+peft
+mcp
+anthropic
+google-auth
+google-auth-oauthlib
+google-api-python-client
